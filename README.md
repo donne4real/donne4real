@@ -41,6 +41,7 @@ single T4, a $400 hard compute ceiling, and a public decision log.
 | **Word Up** | Offline-first Bible reader, 22 translations, 45 tests | [bible-app.leyesapps.workers.dev](https://bible-app.leyesapps.workers.dev) |
 | **NGX Tracker** | ~146 Nigerian Exchange stocks, tracked live | [ngx-tracker.pages.dev](https://ngx-tracker.pages.dev) |
 | **Cert Mastery** | 300 questions each for AWS, Security+, CISSP, PMP, NCE, NCMHCE | [cert-mastery.netlify.app](https://cert-mastery.netlify.app) |
+| **Powerball Predictor** | Hot/cold + due-number analysis over 296 draws, 4 weighted strategies | [powerball-predictor.netlify.app](https://powerball-predictor.netlify.app) |
 | **Exam Prep NG** | WAEC / NECO / JAMB question banks, 12 subjects, CI/CD-validated | [donne4real.github.io/exam-prep-ng](https://donne4real.github.io/exam-prep-ng/) |
 | **PocketOffice** | Writer, Calc, Impress, text editor and PDF tools in a browser | [donne4real.github.io/PocketOffice](https://donne4real.github.io/PocketOffice/) |
 | **Tappers' Apprentice** | Interactive Nigerian-set story, custom JS engine | [donne4real.github.io/tappers-apprentice](https://donne4real.github.io/tappers-apprentice/) |
@@ -63,9 +64,8 @@ single T4, a $400 hard compute ceiling, and a public decision log.
 ## 🛠 Engineering work
 
 [Word Up](https://github.com/donne4real/bible-app) · [Cert Mastery](https://github.com/donne4real/cert-mastery) ·
-[NGX Tracker](https://github.com/donne4real/ngx-tracker) · [Daily Plan](https://github.com/donne4real/daily-plan) ·
-[PocketOffice](https://github.com/donne4real/PocketOffice) · [Tappers' Apprentice](https://github.com/donne4real/tappers-apprentice) ·
-[Vocabulary App](https://github.com/donne4real/vocabulary_app)
+[NGX Tracker](https://github.com/donne4real/ngx-tracker) · [PocketOffice](https://github.com/donne4real/PocketOffice) ·
+[Powerball Predictor](https://github.com/donne4real/powerball-predictor) · [Vocabulary App](https://github.com/donne4real/vocabulary_app)
 
 ---
 
