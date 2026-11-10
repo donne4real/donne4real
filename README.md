@@ -76,10 +76,10 @@ public decision log.
 | **Bible in African Languages — Google Play** | Published Android app, 50+ downloads. No data collected, nothing shared | [com.wordupafrica.biblereader](https://play.google.com/store/apps/details?id=com.wordupafrica.biblereader) |
 | **NGX Tracker** | ~146 Nigerian Exchange stocks, tracked live | [ngx-tracker.pages.dev](https://ngx-tracker.pages.dev) |
 | **Cert Mastery** | 300 questions each for AWS, Security+, CISSP, PMP, NCE, NCMHCE — the first three are the ones I'm certifying on | [cert-mastery.netlify.app](https://cert-mastery.netlify.app) |
-| **Powerball Predictor** | Hot/cold + due-number analysis over 296 draws, 4 weighted strategies | [powerball-predictor.netlify.app](https://powerball-predictor.netlify.app) |
-| **Exam Prep NG** | WAEC / NECO / JAMB question banks, 12 subjects, CI/CD-validated | [donne4real.github.io/exam-prep-ng](https://donne4real.github.io/exam-prep-ng/) |
+| **Powerball Predictor** | Looks through 296 past lottery draws for patterns — hot numbers, 'due' numbers and pairs | [powerball-predictor.netlify.app](https://powerball-predictor.netlify.app) |
+| **Exam Prep NG** | WAEC / NECO / JAMB practice questions across 12 subjects, checked automatically before every publish | [donne4real.github.io/exam-prep-ng](https://donne4real.github.io/exam-prep-ng/) |
 | **PocketOffice** | Writer, Calc, Impress, text editor and PDF tools in a browser | [donne4real.github.io/PocketOffice](https://donne4real.github.io/PocketOffice/) |
-| **Vocabulary App** | Spaced-repetition vocabulary building | [build-my-vocab.netlify.app](https://build-my-vocab.netlify.app) |
+| **Vocabulary App** | Vocabulary practice on a schedule that makes words stick | [build-my-vocab.netlify.app](https://build-my-vocab.netlify.app) |
 | **Nia The Investigator** | Interactive investigation experience | [niatheinvestigator.netlify.app](https://niatheinvestigator.netlify.app) |
 
 ---
