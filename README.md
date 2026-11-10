@@ -17,20 +17,29 @@ and I measure them against gates defined *before* I start building.
 on Yoruba — essentially unusable for tens of millions of speakers.
 
 I measured the baseline first, then built against it: a custom diacritic normalizer, a
-per-dataset licence-audited data pipeline, and a **pre-registered three-path ship gate**.
+per-dataset licence-audited data pipeline, and a **pre-registered ship gate**.
 
-The honest outcome is the interesting one:
+The honest outcome is the interesting one — and it is two failures, not one:
 
 | Model | FLEURS Yoruba test WER | Note |
 |---|---|---|
 | Whisper large-v3, no fine-tune | 92.6% | the floor |
 | Whisper large-v3 + LoRA, 8 epochs | 61.4% | **my own fine-tune — failed the gate** |
-| Omnilingual ASR LLM 1B, as-is | **32.0%** | zero Yoruba training — **shipped** |
+| Omnilingual ASR LLM 1B, as-is | **32.0%** | zero Yoruba training — **cleared the ship bar** |
 
-I chose the baseline over my own model, and documented exactly why. 4.12s p95 latency on a
-single T4, a $400 hard compute ceiling, and a public decision log.
+I chose the baseline over my own model, and documented exactly why. It also held up on unseen
+local speakers (27.7% WER) and on women's voices (32.8%) — FLEURS' Yoruba test split is 100%
+male, so that number did not exist until I measured it.
 
-→ [`github.com/donne4real/aso-oke`](https://github.com/donne4real/aso-oke) · ships 13 Dec 2026
+**The translator failed both of its own gates** and launches with a visible disclaimer rather
+than as a polished feature: BLEU 11.7 / 8.0 against a pre-registered bar of 25, and a p95 of
+7.4s against a 3s limit. A cheap test on Nov 9 ruled out the obvious suspect (beam search) and
+pointed at the 4-bit quantisation instead.
+
+4.12s p95 latency on a single T4, a $400 hard compute ceiling ($149.95 spent so far), and a
+public decision log.
+
+→ [`github.com/donne4real/aso-oke`](https://github.com/donne4real/aso-oke) · [model adapter](https://huggingface.co/donne4real/aso-oke-madlad-lora) · ships 13 Dec 2026
 
 ---
 
