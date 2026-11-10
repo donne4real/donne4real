@@ -39,7 +39,7 @@ single T4, a $400 hard compute ceiling, and a public decision log.
 | Project | What it is | Link |
 |---|---|---|
 | **Bible in African Languages** | Offline-first Bible reader, 22 translations, 45 tests | [bible-app.leyesapps.workers.dev](https://bible-app.leyesapps.workers.dev) |
-| **Bible in African Languages — Google Play** | Published Android app, 4.6 stars. No data collected, nothing shared | [com.wordupafrica.biblereader](https://play.google.com/store/apps/details?id=com.wordupafrica.biblereader) |
+| **Bible in African Languages — Google Play** | Published Android app, 50+ downloads. No data collected, nothing shared | [com.wordupafrica.biblereader](https://play.google.com/store/apps/details?id=com.wordupafrica.biblereader) |
 | **NGX Tracker** | ~146 Nigerian Exchange stocks, tracked live | [ngx-tracker.pages.dev](https://ngx-tracker.pages.dev) |
 | **Cert Mastery** | 300 questions each for AWS, Security+, CISSP, PMP, NCE, NCMHCE | [cert-mastery.netlify.app](https://cert-mastery.netlify.app) |
 | **Powerball Predictor** | Hot/cold + due-number analysis over 296 draws, 4 weighted strategies | [powerball-predictor.netlify.app](https://powerball-predictor.netlify.app) |
@@ -56,7 +56,6 @@ single T4, a $400 hard compute ceiling, and a public decision log.
 |---|---|
 | [Aso Oke](https://github.com/donne4real/aso-oke) | Yoruba STT + translation, LoRA fine-tuning, pre-registered gates |
 | [DataInsight](https://github.com/donne4real/datainsight) | Offline local-LLM data analyst — 100% on-device, no API key |
-| [DocSummarization](https://github.com/donne4real/DocSummarization) | PDF and multi-file summarisation with a Streamlit UI |
 | [Exam Prep NG](https://github.com/donne4real/exam-prep-ng) | Scripted curriculum pipeline generating question banks at scale |
 | [MarketSage](https://github.com/donne4real/MarketSage-Analyzer) | Stock screener across 10 investment philosophies |
 
