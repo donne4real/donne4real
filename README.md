@@ -75,7 +75,7 @@ public decision log.
 | **Bible in African Languages** | Bible reader that works with no internet connection, 22 translations, 45 tests | [bible-app.leyesapps.workers.dev](https://bible-app.leyesapps.workers.dev) |
 | **Bible in African Languages — Google Play** | Published Android app, 50+ downloads. No data collected, nothing shared | [com.wordupafrica.biblereader](https://play.google.com/store/apps/details?id=com.wordupafrica.biblereader) |
 | **NGX Tracker** | ~146 Nigerian Exchange stocks, tracked live | [ngx-tracker.pages.dev](https://ngx-tracker.pages.dev) |
-| **Cert Mastery** | 300 questions each for AWS, Security+, CISSP, PMP, NCE, NCMHCE | [cert-mastery.netlify.app](https://cert-mastery.netlify.app) |
+| **Cert Mastery** | 300 questions each for AWS, Security+, CISSP, PMP, NCE, NCMHCE — the first three are the ones I'm certifying on | [cert-mastery.netlify.app](https://cert-mastery.netlify.app) |
 | **Powerball Predictor** | Hot/cold + due-number analysis over 296 draws, 4 weighted strategies | [powerball-predictor.netlify.app](https://powerball-predictor.netlify.app) |
 | **Exam Prep NG** | WAEC / NECO / JAMB question banks, 12 subjects, CI/CD-validated | [donne4real.github.io/exam-prep-ng](https://donne4real.github.io/exam-prep-ng/) |
 | **PocketOffice** | Writer, Calc, Impress, text editor and PDF tools in a browser | [donne4real.github.io/PocketOffice](https://donne4real.github.io/PocketOffice/) |
@@ -121,6 +121,7 @@ public decision log.
 ## 📍 Currently
 
 - 🔨 **Building** — Aso Oke, shipping 13 Dec 2026
+- 📜 **Certifying** — CISSP, Security+ and AWS, over the next year
 - 📚 **Learning** — AWS AI & ML Scholars Nanodegree
 - 🌍 **Based in** — Virginia, USA, working remotely
 
